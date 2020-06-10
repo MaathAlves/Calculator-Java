@@ -1,12 +1,23 @@
 # Calculator-Java
-A calculator made in Java language.
+Calculator made in Java language.
+
+<b>JDK version:</b> 13 <br>
+<b>Tools:</b>
+- Eclipse
+
+<b>Challenge:</b> interface made without the aid of a plugin.
+
+<sub>First Java project i ever made.
+
+_______________________________________________________________________
 
 
-First Java project to do.
+Calculadora feita na linguagem Java.
 
-I did it with the intention of learning.
+<b>JDK versão:</b> 13 <br>
+<b>Ferramentas:</b>
+- Eclipse
 
-pt-br
-Primeiro projeto Java que faço.
+<b>Desafio:</b> interface feita sem ajuda de plugin.
 
-Fiz com intuito de aprendizado.
+<sub>Primeiro projeto Java que faço</sub>.
